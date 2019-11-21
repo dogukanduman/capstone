@@ -1,3 +1,5 @@
+Report is [here](./capstone_report.pdf).
+
 # Machine Learning Engineer Nanodegree
 ## Specializations
 ## Project: Capstone Proposal and Capstone Project
